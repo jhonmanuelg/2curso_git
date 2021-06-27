@@ -1,0 +1,51 @@
+    1  git branch
+    2  git checkout -b feature
+    3  git branch
+    4  touch nova_feature
+    5  git status
+    6  git add nova_feature
+    7  git commit -m 'Adicionando nova feature'
+    8  git log
+    9  git checkout master
+   10  gis status
+   11  git log
+   12  touch continuando_master
+   13  git add cotinuando_master
+   14  git add continuando_master
+   15  git commit -m 'Adiocionando continuando na master'
+   16  git log
+   17  git checkout feature
+   18  git log
+   19  git checkout -b feature2 master
+   20  git log
+   21  git checkout -d feature2
+   22  git checkout feature2
+   23  git log
+   24  git branch -d feature2
+   25  git checkout master
+   26  git branch -d feature2
+   27  git log
+   28  git checkout feature2
+   29  clear
+   30  git checkout feature
+   31  git log --pretty=online --graph
+   32  git log --pretty=oneline --graph
+   33  git merge master
+   34  :wq
+   35  :wq
+   36  [CMerge branch 'master' into feature
+   37  # Please enter a commit message to explain why this merge is necessary,
+   38  # especially if it merges an updated upstream into a topic branch.
+   39  ok, simples
+   40  #
+   41  # Lines starting with '#' will be ignored, and an empty message aborts
+   42  # the commit.
+   43  :wq
+   44  zq
+   45  git log
+   46  git log --pretty=oneline --graph
+   47  git reset --hard HEAD~
+   48  git log --pretty=oneline --graph
+   49  git rebase master
+   50  git log --pretty=oneline --graph
+   51  history > Aula_5.txt
