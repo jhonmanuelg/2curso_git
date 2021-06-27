@@ -1,0 +1,146 @@
+    1  git vercion
+    2  git config --global user.name "Jhon"
+    3  git config --global user.email "jhonmanuelg6@gmail.com"
+    4  clear
+    5  git config user.name
+    6  gint config user.email
+    7  git config user.gmail
+    8  git config user.email
+    9  git config core.editor
+   10  code
+   11  clear
+   12  pwd
+   13  CO /C
+   14  cd /c
+   15  pwd
+   16  clear
+   17  ls 
+   18  cd /d
+   19  ls
+   20  mkdir teste
+   21  ls
+   22  touch exemplo.txt
+   23  clear
+   24  ls 
+   25  ls -a
+   26  ls . .
+   27  pwd
+   28  cd Desktop
+   29  pwd
+   30  cd ..
+   31  cd Desktop
+   32  cd ~
+   33  cd Desktop/
+   34  mkdir comandos
+   35  ls
+   36  cd comados
+   37  cd comandos
+   38  mkdir lujo nova
+   39  ls
+   40  mkdir 'lujo2 tre'
+   41  ls
+   42  mkdir -p nueva/bueno
+   43  ls
+   44  ls lujo
+   45  ls nueva
+   46  rm -r lujo nueva
+   47  rm -r nova
+   48  ls
+   49  mv 'lujo2 tres' tres_pasta
+   50  mv 'lujo2 tre' tres_pasta
+   51  ls
+   52  mktop dos
+   53  mkdir dos
+   54  ls
+   55  mv dos tres_pasta
+   56  la
+   57  ls
+   58  touch arquivo.txt
+   59  ls
+   60  cp arquivo.txt tres_pasta/
+   61  ls
+   62  ls tres_pasta/
+   63  echo 'Mensagem'
+   64  echo 'mensagem' >comando.txt
+   65  cat comando.txt
+   66  cat
+   67  cat > comando.txt 
+   68  cat comado.txt
+   69  cd > comando.txt
+   70  cd > comando.txt
+   71  cat > comando.txt
+   72  cat comando.txt
+   73  help cd
+   74  histore
+   75  history
+   76  history > historico.txt
+   77  cat historico.txt
+   78  clear
+   79  git log
+   80  git log --pretty=onelene
+   81  git log --pretty=oneline
+   82  git log --stat
+   83  git log -p
+   84  git log -p -2
+   85  git log = --pretty=oneline -3
+   86  git log --pretty=oneline -3
+   87  git log --pretty=oneline -4
+   88  git log --pretty=oneline -10
+   89  git log --since=2.minutes
+   90  git log --since=20.minutes
+   91  git log --since=10.minutes
+   92  git log --autors='Jhon Manuel'
+   93  git log --authors='Jhon Manuel'
+   94  git log --author='Jhon Manuel'
+   95  history > aula_5.txt
+   96  git add aula_5.txt
+   97  git commit -m 'comandos aula_5.txt'
+   98  clear
+   99  git log
+  100  git reser --hard head
+  101  git reset --hard HEAD~
+  102  git log
+  103  /c/Users/jhonm/Desktop/curso_git
+  104  git log
+  105  git log
+  106  cd mkdir curso2_git
+  107  cd esktop
+  108  cd Desktop
+  109  mkdir 2curso_git
+  110  cd 2curso_git/
+  111  git config user.name
+  112  git init
+  113  gi status
+  114  git status
+  115  echo '#Apendendo usar o glt' > readme.md
+  116  git status
+  117  git add reamd.md
+  118  git status
+  119  git add readme.md
+  120  git status
+  121  git commit -m 'commit inicial'
+  122  git status
+  123  echo "##Aul 1' >> readme.md
+
+
+  124  echo '##Aula 1' >> readme.md
+  125  git status
+  126  echo 'Jhon Manuel' > participantes.txt
+  127  git status
+  128  git add.
+  129  git status
+  130  git add .
+  131  git status
+  132  gi restore --staged participantes.txt
+  133  git restore --staged participantes.txt
+  134  git status
+  135  git add participantes.txt
+  136  git status
+  137  git restore --staged .
+  138  git status
+  139  git commit -am 'alteraçao no readme'
+  140  git status
+  141  git add participantes.txt
+  142  git status
+  143  git commit -m 'Adicionando participantes.txt'
+  144  history > aula_3.txt
