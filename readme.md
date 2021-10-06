@@ -1,2 +1,2 @@
-#Apendendo usar o glt
+#Apendendo usar o git
 ##Aula 1
